@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Dev\Hazel\bin\(Configuration)-x64\Hazel\Hazel.dll</FullPath>
+      <FullPath>D:\Dev\Hazel\Hazel-Game-Engine-\bin\(Configuration)-x64\Hazel\Hazel.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

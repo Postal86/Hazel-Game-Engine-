@@ -4,6 +4,11 @@
 //  For use  by  Hazel  applications 
 
 
-#include "Application.h"
+#include <stdio.h>
+#include "Hazel/Application.h"
+
+
+// ----- Entry point 
+#include "Hazel/EntryPoint.h"
 
 

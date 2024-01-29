@@ -2,6 +2,7 @@
 
 namespace Hazel
 {
+
  Application::Application()
 {
 
